@@ -1,4 +1,4 @@
-This is a old repository. I've renamed it.
+This is a old repository. I had renamed it. But now I've renamed it to the original name.
 
 And this is a testing code for markdown.
 
